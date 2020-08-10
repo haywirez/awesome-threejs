@@ -20,6 +20,11 @@
 
 ---
 
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber)
+- [awesome-react-three-fiber](https://github.com/gsimone/awesome-react-three-fiber)
+
+---
+
 - [react-three](https://github.com/Izzimach/react-three)
 - [react-three-renderer](https://github.com/toxicFork/react-three-renderer)
 - [react-threejs](https://github.com/fritx/react-threejs)
